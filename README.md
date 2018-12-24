@@ -14,6 +14,13 @@ simpleディレクトリは、トークンの追加発行「mint()」や処分�
 
 [【Truffle5.0対応】シンプルなERC20トークンを作成しよう！](http://kojiryo.com/968/)
 
+## Mint
+mintディレクトリはトークンの追加発行機能を実装したERC20トークンのコントラクトです。
+
+チュートリアルはこちら↓
+
+[ERC20トークンの追加発行機能を実装しよう！【OpenZeppelin2.0】](http://kojiryo.com/1237/)
+
 ## 使い方
 はじめにチュートリアルプロジェクトをダウンロードします。
 
@@ -53,6 +60,7 @@ Ganache-cliを利用する場合は、truffle-config.jsのポートをCLI版に�
 
 あとは各チュートリアルの記事に沿って、動かしてみてください！
 - [simpleを動かす](http://kojiryo.com/968/#outline__4_2)
+- [mintを動かす](http://kojiryo.com/1237/#outline__5)
 
 ## ライセンス
 MIT
