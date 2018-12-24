@@ -3,8 +3,12 @@ ERC20Tutorial
 
 このプロジェクト( [kojimaro/ERC20Tutorial](https://github.com/kojimaro/ERC20Tutorial) )は、OpenZeppelin2.x系とTruffle5.x系を利用してERC２０トークンの作成を行うチュートリアルです。
 
+・[Truffle](https://github.com/trufflesuite/truffle)
+
+・[OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+
 ## Simple
-simpleディレクトリは、トークンの追加発行（mint()）や処分（burn()）といった機能のない、シンプルなERC20トークンです。
+simpleディレクトリは、トークンの追加発行「mint()」や処分「burn()」といった機能のない、シンプルなERC20トークンです。
 
 チュートリアルはこちら↓
 
