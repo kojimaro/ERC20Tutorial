@@ -53,3 +53,6 @@ Ganache-cliを利用する場合は、truffle-config.jsのポートをCLI版に�
 
 あとは各チュートリアルの記事に沿って、動かしてみてください！
 - [simpleを動かす](http://kojiryo.com/968/#outline__4_2)
+
+## ライセンス
+MIT
