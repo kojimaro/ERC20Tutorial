@@ -21,6 +21,13 @@ mintディレクトリはトークンの追加発行機能を実装したERC20�
 
 [ERC20トークンの追加発行機能を実装しよう！【OpenZeppelin2.0】](http://kojiryo.com/1237/)
 
+## Burn
+burnディレクトリはトークンの処分機能を実装したERC20トークンのコントラクトです。
+
+チュートリアルはこちら↓
+
+[ERC20トークンを処分するburn関数の仕組みと実装【OpenZeppelin2.0】](http://kojiryo.com/1379/)
+
 ## 使い方
 はじめにチュートリアルプロジェクトをダウンロードします。
 
@@ -61,6 +68,7 @@ Ganache-cliを利用する場合は、truffle-config.jsのポートをCLI版に�
 あとは各チュートリアルの記事に沿って、動かしてみてください！
 - [simpleを動かす](http://kojiryo.com/968/#outline__4_2)
 - [mintを動かす](http://kojiryo.com/1237/#outline__5)
+- [burnを動かす](http://kojiryo.com/1379/#outline__5)
 
 ## ライセンス
 MIT
